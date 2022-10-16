@@ -1,0 +1,44 @@
+
+
+.container{
+    width: 80vw;
+    margin: auto;
+    padding: 2rem;
+    height: 100vh;
+   
+    margin-top: 1rem;
+    border-radius: 10px;
+}
+
+.inputBox{
+    margin: auto;
+}
+
+textarea{
+    width: 100%;
+    outline: none;
+    
+    cursor: auto;
+}
+
+
+.pink{
+    background-color: pink;
+}
+.green{
+    background-color: green;
+}
+.yellow{
+    background-color: rgb(247, 215, 76);
+}
+.white{
+    background-color: rgba(255, 255, 255, 0.007);
+}
+
+.text{
+    height: 10vh;
+    width: 10vw;
+    background-color: red;
+    color: white;
+    margin: auto;
+}
